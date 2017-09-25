@@ -1,0 +1,9 @@
+[submodule "cms"]
+	path = cms
+	url = https://github.com/camio/cms.git
+[submodule "dpl"]
+	path = dpl
+	url = https://github.com/camio/dpl.git
+[submodule "asio"]
+	path = asio
+	url = https://github.com/camio/asio.git
